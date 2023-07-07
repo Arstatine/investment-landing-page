@@ -59,7 +59,7 @@ function Partnership() {
         </div>
       </div>
 
-      <button className='bg-secondary py-3 px-5 text-white text-xl rounded-full mt-[50px]'>
+      <button className='bg-secondary hover:bg-[#00daab] py-3 px-5 text-white text-xl rounded-full mt-[50px]'>
         Make Partnership
       </button>
     </div>
