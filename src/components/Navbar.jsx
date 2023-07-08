@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { Icon } from '@iconify/react';
 import { useWindowSize } from '@uidotdev/usehooks';
+import Logo from '../assets/growth.png';
 
 function Navbar() {
   const [isClicked, setIsClicked] = useState(false);
@@ -20,8 +21,8 @@ function Navbar() {
   return (
     <nav className='flex items-center px-10 lg:px-[15%] bg-primary py-10 flex-wrap'>
       <a href='#' className='p-2 mr-4 inline-flex items-center'>
-        <img src='' alt='LOGO' />
-        <span className='text-xl text-white font-bold uppercase tracking-wide hidden sm:block'>
+        <img src={Logo} alt='LOGO' width='30' height='30' />
+        <span className='px-5 text-xl text-white font-bold uppercase tracking-wide hidden sm:block'>
           BRANDNAME
         </span>
       </a>
