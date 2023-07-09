@@ -63,6 +63,27 @@
   background-image: url('data:image/svg+xml;charset=utf8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 35.28 2.17" preserveAspectRatio="none"><path d="M35.28 1.16c-3.17-.8-7.3.4-10.04.56-2.76.17-9.25-1.47-12.68-1.3-3.42.16-4.64.84-7.04.86C3.12 1.31 0 .4 0 .4v1.77h35.28z" fill="%231a35ab"/></svg>');
 }
 
+.custom-shape-divider-bottom-1688880203 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1688880203 svg {
+  position: relative;
+  display: block;
+  width: calc(150% + 1.3px);
+  height: 150px;
+}
+
+.custom-shape-divider-bottom-1688880203 .shape-fill {
+  fill: #ffffff;
+}
+
 @media (min-width: 2100px) {
   .shapedividers_1::before {
     background-size: 200% calc(2vw + 150px);

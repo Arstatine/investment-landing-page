@@ -24,7 +24,7 @@ function Footer() {
             <span className='text-2xl font-bold text-white'>BRANDNAME</span>
           </div>
           <p className='text-white'>
-            Copyright © 2022 Xenon Vergara. All rights reserved.
+            Copyright © 2023 Investment Company. All rights reserved.
           </p>
         </div>
         <div className='flex lg:hidden justify-center w-[100%]'>

@@ -22,7 +22,7 @@ function Navbar() {
     <nav className='flex items-center px-10 lg:px-[15%] bg-primary py-10 flex-wrap'>
       <a href='#' className='p-2 mr-4 inline-flex items-center'>
         <img src={Logo} alt='LOGO' width='30' height='30' />
-        <span className='px-5 text-xl text-white font-bold uppercase tracking-wide hidden sm:block'>
+        <span className='px-5 text-xl text-white font-bold uppercase tracking-wide hidden xs:block'>
           BRANDNAME
         </span>
       </a>
@@ -38,19 +38,19 @@ function Navbar() {
         <div className='hidden w-full lg:inline-flex lg:flex-grow lg:w-auto'>
           <div className='lg:inline-flex lg:flex-row lg:ml-auto lg:w-auto w-full lg:items-center items-start  flex flex-col lg:h-auto text-lg'>
             <a
-              href='#'
+              href='/'
               className='lg:inline-flex lg:w-auto w-full px-8 py-2 rounded text-slate-200 items-center justify-center hover:bg-blue-700 hover:text-white'
             >
               <span>Home</span>
             </a>
             <a
-              href='#'
+              href='/contact'
               className='lg:inline-flex lg:w-auto w-full px-8 py-2 rounded text-slate-200 items-center justify-center hover:bg-blue-700 hover:text-white'
             >
               <span>Contact</span>
             </a>
             <a
-              href='#'
+              href='/about'
               className='lg:inline-flex lg:w-auto w-full px-8 py-2 rounded text-slate-200 items-center justify-center hover:bg-blue-700 hover:text-white'
             >
               <span>About</span>
@@ -65,19 +65,19 @@ function Navbar() {
         >
           <div className='bg-blue-600 left-0 bottom-0 p-5 z-[99] h-auto lg:inline-flex lg:flex-row lg:ml-auto lg:w-auto w-full lg:items-center items-start  flex flex-col lg:h-auto  text-lg'>
             <a
-              href='#'
+              href='/'
               className='lg:inline-flex lg:w-auto w-full px-3 py-2 rounded text-slate-200 items-center justify-center hover:bg-blue-700 hover:text-white'
             >
               <span>Home</span>
             </a>
             <a
-              href='#'
+              href='/contact'
               className='lg:inline-flex lg:w-auto w-full px-3 py-2 rounded text-slate-200 items-center justify-center hover:bg-blue-700 hover:text-white'
             >
               <span>Contact</span>
             </a>
             <a
-              href='#'
+              href='/about'
               className='lg:inline-flex lg:w-auto w-full px-3 py-2 rounded text-slate-200 items-center justify-center hover:bg-blue-700 hover:text-white'
             >
               <span>About</span>

@@ -1,17 +1,15 @@
 import { Routes, Route } from 'react-router-dom';
 
 import Home from '../views';
+import Contact from '../views/Contact';
+import About from '../views/About';
 
 const AppRoutes = () => {
   return (
     <Routes>
       <Route index element={<Home />} />
-      {/* <Route path='login' element={<LoginPage />} />
-      <Route path='register' element={<RegisterPage />} />
-      <Route path='chat-list' element={<ChatList />} />
-      <Route path='messages/:to' element={<Messages />} />
-      <Route path='profile' element={<Profile />} />
-      <Route path='*' element={<NotFound />} /> */}
+      <Route path='/contact' element={<Contact />} />
+      <Route path='/about' element={<About />} />
     </Routes>
   );
 };
