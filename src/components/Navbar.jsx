@@ -20,7 +20,7 @@ function Navbar() {
 
   return (
     <nav className='flex items-center px-10 lg:px-[15%] bg-primary py-10 flex-wrap'>
-      <a href='#' className='p-2 mr-4 inline-flex items-center'>
+      <a href='/' className='p-2 mr-4 inline-flex items-center'>
         <img src={Logo} alt='LOGO' width='30' height='30' />
         <span className='px-5 text-xl text-white font-bold uppercase tracking-wide hidden xs:block'>
           BRANDNAME
