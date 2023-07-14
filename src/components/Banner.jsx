@@ -2,7 +2,7 @@ import Invest from '../assets/invest.svg';
 
 function Banner() {
   return (
-    <div className='bg-primary flex items-center justify-between flex-col lg:flex-row px-10 lg:px-[15%] pt-[5vh] lg:pt-[15vh] pb-[15vh] lg:pb-[25vh] shapedividers_1'>
+    <div className='bg-primary flex items-center justify-between flex-col lg:flex-row px-5 lg:px-[15%] pt-[5vh] lg:pt-[15vh] pb-[15vh] lg:pb-[25vh] shapedividers_1'>
       <div className='w-[100%] lg:w-[50%] flex flex-col gap-10'>
         <h1 className='text-3xl lg:text-7xl text-white font-black'>
           INVEST, GROW AND MAKE MONEY

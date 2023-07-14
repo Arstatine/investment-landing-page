@@ -1,6 +1,6 @@
 function Testimonials() {
   return (
-    <div className='px-10 lg:px-[15%] py-[5vh] lg:py-[10vh] pb-[15vh] lg:pb-[15vh] bg-slate-100 text-center shapedividers_2'>
+    <div className='px-5 lg:px-[15%] py-[5vh] lg:py-[10vh] pb-[15vh] lg:pb-[15vh] bg-slate-100 text-center shapedividers_2'>
       <h1 className='text-2xl font-bold text-center'>TESTIMONIALS</h1>
       <div className='flex justify-center w-[100%] my-3'>
         <span className='bg-secondary h-2 w-[150px]'></span>

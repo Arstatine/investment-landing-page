@@ -3,7 +3,7 @@ import Savings from '../assets/savings.svg';
 
 function Partnership() {
   return (
-    <div className='px-10 lg:px-[15%] py-[5vh] lg:py-[10vh] bg-slate-100 text-center'>
+    <div className='px-5 lg:px-[15%] py-[5vh] lg:py-[10vh] bg-slate-100 text-center'>
       <h1 className='text-2xl font-bold text-center'>KNOW ABOUT PARTNERSHIP</h1>
       <div className='flex justify-center w-[100%] my-3'>
         <span className='bg-secondary h-2 w-[150px]'></span>

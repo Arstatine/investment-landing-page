@@ -2,7 +2,7 @@ import Pending from '../assets/pending.svg';
 
 function Investment() {
   return (
-    <div className='px-10 lg:px-[15%] py-[5vh] lg:py-[10vh] text-center'>
+    <div className='px-5 lg:px-[15%] py-[5vh] lg:py-[10vh] text-center'>
       <h1 className='text-2xl font-bold text-center'>KNOW ABOUT INVESTMENT</h1>
       <div className='flex justify-center w-[100%] my-3'>
         <span className='bg-secondary h-2 w-[150px]'></span>

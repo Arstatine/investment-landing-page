@@ -4,7 +4,7 @@ import { Icon } from '@iconify/react';
 function Footer() {
   return (
     <div>
-      <div className='bg-primary px-10 lg:px-[15%] pt-[2.5vh] lg:pt-[5vh] pb-[5vh] lg:pb-[10vh] flex items-center justify-center flex-col lg:flex-row'>
+      <div className='bg-primary px-5 lg:px-[15%] pt-[2.5vh] lg:pt-[5vh] pb-[5vh] lg:pb-[10vh] flex items-center justify-center flex-col lg:flex-row'>
         <div className='w-[100%] lg:w-[50%] py-5  text-center lg:text-start'>
           <h1 className='text-2xl text-white'>Lorem ipsum dolor sit amet</h1>
         </div>
