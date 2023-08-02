@@ -23,7 +23,7 @@ function Navbar() {
       <a href='/' className='p-2 mr-4 inline-flex items-center'>
         <img src={Logo} alt='LOGO' width='30' height='30' />
         <span className='px-5 text-xl text-white font-bold uppercase tracking-wide hidden xs:block'>
-          BRANDNAME
+          IN-BESTMENT
         </span>
       </a>
       <button

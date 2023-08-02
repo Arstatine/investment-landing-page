@@ -8,10 +8,11 @@ function Banner() {
           INVEST, GROW AND MAKE MONEY
         </h1>
         <p className='text-slate-300 text-xl'>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero atque
-          deserunt omnis est a nobis eos pariatur magnam necessitatibus!
-          Praesentium quod deserunt perspiciatis sequi nemo facilis voluptatibus
-          similique eligendi in!
+          Welcome to IN-BESTMENT a Investment Company, where opportunities for
+          growth and prosperity await. With our proven track record of
+          delivering impressive returns and our unwavering commitment to
+          identifying the most promising ventures, we invite you to embark on a
+          journey of financial success with us.
         </p>
         <div className='flex  gap-5 sm:gap-10 flex-col sm:flex-row'>
           <button className='bg-secondary hover:bg-[#00daab] py-3 px-5 text-white text-xl rounded-full'>

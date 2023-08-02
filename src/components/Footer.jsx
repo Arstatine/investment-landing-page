@@ -6,7 +6,9 @@ function Footer() {
     <div>
       <div className='bg-primary px-5 lg:px-[15%] pt-[2.5vh] lg:pt-[5vh] pb-[5vh] lg:pb-[10vh] flex items-center justify-center flex-col lg:flex-row'>
         <div className='w-[100%] lg:w-[50%] py-5  text-center lg:text-start'>
-          <h1 className='text-2xl text-white'>Lorem ipsum dolor sit amet</h1>
+          <h1 className='text-2xl text-white'>
+            Invest Now and Make Partnership
+          </h1>
         </div>
         <div className='w-[100%] lg:w-[50%] flex justify-center lg:justify-start gap-5 sm:gap-10 flex-col sm:flex-row  p-5'>
           <button className='bg-secondary hover:bg-[#00daab] py-3 px-5 text-white text-xl rounded-full'>
@@ -21,10 +23,10 @@ function Footer() {
         <div className='w-[100%] lg:w-[50%] text-center lg:text-start'>
           <div className='flex items-center gap-3 pb-5 justify-center lg:justify-start'>
             <img src={Logo} alt='' width='30' height='30' />
-            <span className='text-2xl font-bold text-white'>BRANDNAME</span>
+            <span className='text-2xl font-bold text-white'>IN-BESTMENT</span>
           </div>
           <p className='text-white'>
-            Copyright © 2023 Investment Company. All rights reserved.
+            Copyright © 2023 IN-BESTMENT. All rights reserved.
           </p>
         </div>
         <div className='flex lg:hidden justify-center w-[100%]'>
