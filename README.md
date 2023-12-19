@@ -1,6 +1,7 @@
 # investment-landing-page
 
 ## How to run?
+Visit the app [here](https://investment-landing-page.vercel.app/)
 
 Prerequisite:
 - Must have Node.js installed in the computer
