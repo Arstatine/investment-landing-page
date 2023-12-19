@@ -14,7 +14,7 @@ Prerequisite:
 3. Open terminal and run the command below:
 - `npm install` to install dependencies 
 - `npm run dev` to start the server
-5. Copy the local server link and paste it to the browser or just go to this link http://127.0.0.1:5173/
+5. Copy the local server link and paste it to the browser or just go to this link [http://127.0.0.1:5173](http://127.0.0.1:5173)
 
 Screenshot:
 ![image](https://github.com/Arstatine/investment-landing-page/assets/108978331/aefcccd9-6b0b-4fa0-bb68-4f11fa587821)
