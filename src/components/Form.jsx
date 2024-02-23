@@ -45,7 +45,7 @@ function Form() {
           />
         </div>
         <div className='w-[100%] lg:w-[50%] mt-8'>
-          <label htmlFor='message'>First name</label>
+          <label htmlFor='message'>Message</label>
           <textarea
             name='message'
             id='message'
